@@ -9,25 +9,25 @@ Um site de portfólio moderno e responsivo desenvolvido para o fotógrafo Dougla
 ## Screenshots
 
 ### Visão geral da página inicial
-![Página inicial](assets/screenshots/home.png)
+![Página inicial](assets/screenshots/inicio.png)
 
 ### Galeria de 15 anos
-![Galeria 15 anos](assets/screenshots/galeria-15-anos.png)
+![Galeria 15 anos](assets/screenshots/15_anos.png)
 
 ### Galeria de crianças
-![Galeria crianças](assets/screenshots/galeria-criancas.png)
+![Galeria crianças](assets/screenshots/crianca.png)
 
 ### Galeria de gravidez
-![Galeria gravidez](assets/screenshots/galeria-gravidez.png)
+![Galeria gravidez](assets/screenshots/gravidez.png)
 
 ### Galeria de noivas
-![Galeria noivas](assets/screenshots/galeria-noivas.png)
+![Galeria noivas](assets/screenshots/noivas.png)
 
 ### Seção sobre o fotógrafo 
 ![Sobre](assets/screenshots/sobre.png)
 
 ### Formulário mad‑libs
-![Formulário mad-libs](assets/screenshots/formulario-madlibs.png)
+![Formulário mad-libs](assets/screenshots/formulario.png)
 
 ## Sobre o Projeto
 
