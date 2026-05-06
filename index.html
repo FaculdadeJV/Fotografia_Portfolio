@@ -584,7 +584,7 @@
       .mad-libs input, .mad-libs select { width: 100%; max-width: 280px; }
     }
 
-    /* Formulário grid (correção) */
+    /* Formulário grid  */
     .form-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -778,6 +778,10 @@
         <p class="label">Debutantes</p>
         <h2>15 Anos</h2>
       </div>
+      <div class="gallery-arrows">
+        <button class="arrow-btn" onclick="scrollGallery('track-quinze', -320)" aria-label="Anterior">◀</button>
+        <button class="arrow-btn" onclick="scrollGallery('track-quinze', 320)" aria-label="Próximo">▶</button>
+      </div>
     </div>
     <div class="gallery-track no-scroll" id="track-quinze">
       <div class="gallery-card glass-card"><img src="assets/secoes/15 anos/1.jpg" alt="Ensaio 15 Anos" loading="lazy" /><div class="gallery-card-overlay"></div></div>
@@ -797,6 +801,10 @@
       <div>
         <p class="label">Infância</p>
         <h2>Crianças</h2>
+      </div>
+      <div class="gallery-arrows">
+        <button class="arrow-btn" onclick="scrollGallery('track-criancas', -320)" aria-label="Anterior">◀</button>
+        <button class="arrow-btn" onclick="scrollGallery('track-criancas', 320)" aria-label="Próximo">▶</button>
       </div>
     </div>
     <div class="gallery-track no-scroll" id="track-criancas">
