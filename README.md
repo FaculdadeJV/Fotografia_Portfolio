@@ -23,7 +23,7 @@ Um site de portfólio moderno e responsivo desenvolvido para o fotógrafo Dougla
 ### Galeria de noivas
 ![Galeria noivas](assets/screenshots/galeria-noivas.png)
 
-### Seção sobre o fotógrafo e estatísticas
+### Seção sobre o fotógrafo 
 ![Sobre](assets/screenshots/sobre.png)
 
 ### Formulário mad‑libs
@@ -73,7 +73,7 @@ O projeto adota uma paleta escura (`--bg: #020B1A`) com textos claros (`--fg: #F
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/portfolio-douglas-matos.git
+   git clone https://github.com/FaculdadeJV/Fotografia_Portfolio.git
 
 
 
